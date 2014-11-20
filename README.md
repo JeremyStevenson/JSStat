@@ -2,7 +2,9 @@ JSStat
 ======
 
 C#/.Net API and sample program for controlling Honeywell WiFi (and Redlink) thermostats via the 
-Total Connect Comfort website. mytotalconnectcomfort.com
+Total Connect Comfort website. mytotalconnectcomfort.com.
+
+I have used this succesfully with the Honeywell Wi-Fi smart thermostat RTH9580, RTH8580WF and VisionPRO 8000.
 
 Please note you must enter a username, password, location ID, and loaction name into the code to get this to work.
 
