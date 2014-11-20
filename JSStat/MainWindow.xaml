@@ -1,0 +1,8 @@
+﻿<Window x:Class="JSStat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="JSStat - Stop the pipes freezing" Height="350" Width="759.417" Loaded="Window_Loaded" Icon="Resources/SuperCOLD6464.png">
+    <Grid>
+        <RichTextBox x:Name="richTextBox" VerticalScrollBarVisibility="Visible"/>
+    </Grid>
+</Window>
